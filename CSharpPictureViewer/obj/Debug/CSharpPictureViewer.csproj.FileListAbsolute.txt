@@ -1,0 +1,20 @@
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\bin\Debug\CSharpPictureViewer.exe.config
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\bin\Debug\CSharpPictureViewer.exe
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\bin\Debug\CSharpPictureViewer.pdb
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.csprojResolveAssemblyReference.cache
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.frmMain.resources
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.Properties.Resources.resources
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.csproj.GenerateResource.Cache
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.exe
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.pdb
+C:\Users\James\AppData\Local\Temporary Projects\CSharpPictureViewer\bin\Debug\Resources\amazing-coral-reefs-12.jpg
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\bin\Debug\CSharpPictureViewer.exe.config
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.exe
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.pdb
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\bin\Debug\Resources\amazing-coral-reefs-12.jpg
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\bin\Debug\CSharpPictureViewer.exe
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\bin\Debug\CSharpPictureViewer.pdb
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.frmMain.resources
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio 2013\Projects\CSharpPictureViewer\CSharpPictureViewer\obj\Debug\CSharpPictureViewer.csproj.GenerateResource.Cache
